@@ -44,3 +44,5 @@ genera.muchas <- function(n){
 
 datos<-genera.muchas(100)
 hist(datos)
+plot(datos)
+
